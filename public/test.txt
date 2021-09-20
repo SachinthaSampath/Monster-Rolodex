@@ -1,0 +1,25 @@
+
+console.log(1);
+
+setTimeout(()=>{
+    console.log(2);
+},0)
+
+console.log(3);
+
+onLoad()
+call stack
+
+
+
+web api
+
+
+
+
+func()
+callback queue
+
+
+event loop 
+check to see if call stack is empty and put the call back queue content to the call stack
